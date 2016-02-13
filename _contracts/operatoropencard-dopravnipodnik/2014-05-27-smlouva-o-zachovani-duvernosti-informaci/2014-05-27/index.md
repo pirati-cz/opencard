@@ -1,4 +1,38 @@
+---
+"id":               
+"layout":           contract
+"datum podpisu":    2014-05-27
+"datum účinnosti":  2014-05-27
+"použité smluvní typy":
+  - smlouva o zachování důvěrnosti
+"předmět":          Smlouva o zachování důvěrnosti informací
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Operátor OPENCARD, a.s."
+  "zástupce": Ing. Petr Vychodil, Ondřej Košťál
+  "funkce":   předseda a člen představenstva
+ -   
+  "jméno":    "Dopravní podnik hl. m. Prahy, a.s."
+  "zástupce": Ing. Jaroslav Ďuriš, Bc. Magdalena Češková
+  "funkce":   předseda a místopředsedkyně představenstva
+  "role":     poskytovatel
 
+"náklady":
+
+"soubory":
+ - 
+  "název": "Smlouva o zachování důvěrnosti"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění":
+"změněno": 
+"zrušeno":
+---
 
 ##SMLOUVA O ZACHOVÁNÍ DŮVĚRNOSTI INFORMACÍ
 

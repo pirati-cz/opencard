@@ -9,17 +9,18 @@
 "smluvní strany":
  -   
   "role":     nabyvatel
-  "jméno":    "Hlavní město Praha"
-  "orgán":    
-  "zástupce": 
-  "funkce":   
- -   
   "jméno":    "Operátor OPENCARD, a.s."
-  "zástupce": 
-  "funkce":   
+  "zástupce": Ing. Petr Vychodil
+  "funkce":   předseda představenstva
+ -   
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor evidence, správy a využití majetku
+  "zástupce": Ing. Radek Svoboda
+  "funkce":   ředitel odboru evidence, správy a využití majetku
   "role":     poskytovatel
 
-"náklady": 
+
+"náklady": 850640/rok
 
 "soubory":
  - 

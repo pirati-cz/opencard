@@ -1,3 +1,41 @@
+---
+"id":               
+"layout":           contract
+"datum podpisu":    2014-12-01
+"datum účinnosti":  2014-12-01
+"použité smluvní typy":
+  - 
+"předmět":          Smlouva o výpujčce movitých věcí
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Operátor OPENCARD, a.s."
+  "zástupce": Ing. Petr Vychodil, Ondřej Košťál
+  "funkce":   předseda a člen představenstva
+ -   
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor služeb
+  "zástupce": Ing. Iveta Pekárková
+  "funkce":   ředitelka odboru služeb
+  "role":     poskytovatel
+
+
+"náklady": 
+
+"soubory":
+ - 
+  "název": "Smlouva o nájmu movitých věcí"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění":
+"změněno": 
+"zrušeno":
+---
+
 ##Smlouva o výpůjčce movitých věcí
 
 **č. smlouvy půjčitele:**.......................  
