@@ -1,3 +1,40 @@
+---
+"id":               
+"layout":           contract
+"datum podpisu":    2014-08-08
+"datum účinnosti":  2014-08-08
+"použité smluvní typy":
+  - dohoda
+"předmět":          Dohoda o společném postupu
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    RHMP
+  "zástupce": RNDr. Tomáš Hudeček, Ph.D.
+  "funkce":   primátor hl. m. Prahy
+ -   
+  "jméno":    "eMoneySevices s.r.o."
+  "zástupce": Michal Šilhák
+  "funkce":   jednatel
+  "role":     poskytovatel
+
+"náklady":
+
+"soubory":
+ - 
+  "název": 
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění":
+"změněno": 
+"zrušeno":
+---
+
 ||DOHODA O SPOLEČNÉM POSTUPU|
 | ------------- | -----|
 |Strany|**eMoneyServices s.r.o.**, se sídlem Kubánské náměstí 1391/11, Vršovice,100 00 Praha 10, IČO: 24187933, zapsaná v obchodním rejstříku vedeném Městským soudem v Praze, oddíl C, vložka 186877 ("EMS") a **Operátor OPENCARD, a.s.**, se sídlem Opletalova 929/22, Nové Město, 110 00 Praha 1, IČO: 02795281, zapsaná v obchodním rejstříku vedeném Městským soudem v Praze, oddíl B, vložka 19676 ("OOC") a **Hlavní město Praha**, se sídlem Mariánské náměstí 2/2, Staré Město, 110 00 Praha 1, IČO: 000 64 581 ("HMP")

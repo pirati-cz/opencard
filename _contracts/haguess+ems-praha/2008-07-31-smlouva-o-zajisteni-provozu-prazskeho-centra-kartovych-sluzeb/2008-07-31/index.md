@@ -1,3 +1,39 @@
+---
+"id":               INO/40/01/001638/2008
+"layout":           contract
+"datum podpisu":    2008-07-31
+"datum účinnosti":  2008-07-31
+"použité smluvní typy":
+  - smlouva inominátní
+"předmět":          Smlouva o zajištění provozu pražského centra kartových služeb
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor informatiky
+  "zástupce": Ing. Václav Kraus
+  "funkce":   ředitel odboru informatiky
+ -   
+  "jméno":    "Haguess, a.s."
+  "zástupce": Miroslava Turková
+  "funkce":   předsedkyně představenstva
+  "role":     poskytovatel
+
+"náklady": 4757875
+
+"soubory":
+ - 
+  "název": "Smlouva o zajištění PCKS"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění":
+"změněno": 
+"zrušeno":
+---
 
 ###OBSAH  
 1 OBECNÁ USTANOVENÍ ........................................................................................................... ..1  

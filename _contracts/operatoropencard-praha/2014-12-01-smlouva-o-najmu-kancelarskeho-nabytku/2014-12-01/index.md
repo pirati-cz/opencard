@@ -1,10 +1,10 @@
 ---
-"id":               
+"id":               VYP/01/01/001158/2014
 "layout":           contract
 "datum podpisu":    2014-12-01
 "datum účinnosti":  2014-12-01
 "použité smluvní typy":
-  - 
+  - smlouva o výpujčce
 "předmět":          Smlouva o výpujčce movitých věcí
 "smluvní strany":
  -   

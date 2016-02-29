@@ -1,10 +1,10 @@
 ---
-"id":               
+"id":               NAM/01/01/001137/2014
 "layout":           contract
 "datum podpisu":    2014-09-26
 "datum účinnosti":  2014-09-26
 "použité smluvní typy":
-  - 
+  - nájemní smlouva - movitá věc
 "předmět":          Smlouva o nájmu movitých věcí
 "smluvní strany":
  -   
